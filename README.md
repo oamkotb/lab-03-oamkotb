@@ -1,5 +1,10 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
+## Student Details
+
+- **Full Name:** `Omar Mahmoud`
+- **CCID:** `omahmoud`
+
 ## References and Resources
 N/A
 
